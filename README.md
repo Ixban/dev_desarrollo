@@ -96,10 +96,5 @@ https://www.dropbox.com/s/caz6mjbd51hasvu/diagrama.pdf?dl=0
 
 Live Version in (Heroku && MongoDB(Mlab) ):
 
-<<<<<<< HEAD
-https://app-dev-desarrollo.herokuapp.com/
-=======
 https://app-dev-desarrollo.herokuapp.com/
 
-
->>>>>>> 42f897d2051a0c4b9bb76333b52aeefbfa58dc33
